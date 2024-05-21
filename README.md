@@ -4,17 +4,12 @@
 
 ## Contents
 
-- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Query Syntax](#query-syntax)
 - [Examples](#usage-examples)
 - [Contribute](#contribute)
 - [License](#license)
-
-## Demo
-
-[![fsql.gif](./media/fsql.gif)](https://asciinema.org/a/120534)
 
 ## Installation
 
