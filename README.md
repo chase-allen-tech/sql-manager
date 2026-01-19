@@ -1,4 +1,4 @@
-# fsql [![Go](https://github.com/kashav/fsql/actions/workflows/go.yml/badge.svg)](https://github.com/kashav/fsql/actions/workflows/go.yml)
+# fsql 
 
 >Search through your filesystem with SQL-esque queries.
 
